@@ -1,6 +1,6 @@
 ![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
 <h1 align="center">Hi 👋, I'm Emirhan Özcan</h1>
-<h3 align="center">A passionate Data Analyst from Turkey</h3>
+<h3 align="center">A passionate Statistician from Turkey</h3>
 <img align="right"alt="Coding" width="400"src="https://uploads-ssl.webflow.com/5c19020c997c25514d17d86f/6123eeadd1c080239dd39956_Setup%20Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briyas&label=Profile%20views&color=0e75b6&style=flat" alt="briyas" /> </p>
