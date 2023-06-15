@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **emirhanozcan772@gmail.com**
 
-- ⚡ Fun fact **I am good guy**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
