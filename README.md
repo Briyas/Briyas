@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=briyas&label=Profile%20views&color=0e75b6&style=flat" alt="briyas" /> </p>
 
-- 🔭 I’m currently working on **Data analysis projects**
+- 🔭 I’m currently working on **my projects**
 
 - 🌱 I’m currently learning **Python and R**
 
